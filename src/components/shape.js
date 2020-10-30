@@ -10,7 +10,7 @@ In another module make a class called "Circle" that extends the "Shape" class an
 
 Write code for Shape class in shape.js and Circle in circle.js
 
-Export the class from each file. */
+Export the class from each files. */
  
 export default class Shape {
     constructor() {

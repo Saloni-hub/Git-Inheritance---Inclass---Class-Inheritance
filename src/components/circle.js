@@ -1,7 +1,7 @@
 // import using require 
 //es6 default import syntax
 import Shape from './shape';
-// declare class
+// declare classe
 
 // export class using module.exports
 export default class Circle extends Shape {
